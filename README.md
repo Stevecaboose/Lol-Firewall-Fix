@@ -16,9 +16,10 @@ tool to help.
 
 Ive included the source code in the "Main" folder for anyone who would like to make sure that this file does what I claim it does
 
-----NOTE----
+----NOTES----
 
 You must run this program after every patch.
+This will not work if you did not install in the default directory. If you installed on a different drive that is fine. Just a different directory will cause the program to not find the files it needs.
 
 Enjoy :)
 
