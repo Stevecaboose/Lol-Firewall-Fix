@@ -9,11 +9,12 @@ with League of Legends, this will mostly likley cause that device's special func
 break youre game. These files are not required to run your game. They are the culprit for many problems which is why I made this
 tool to help.
 
-1. Download jar file
-2. Click on delete Logitech files.
-3. Done
+1. Click on LoL Firewall Fix.
+2. Download as raw.
+3. Click on delete Logitech files.
+4. Done
 
-Ive included the source code for anyone who would like to make sure that this file does what I claim it does
+Ive included the source code in the "Main" folder for anyone who would like to make sure that this file does what I claim it does
 
 ----NOTE----
 
