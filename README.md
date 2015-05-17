@@ -6,7 +6,7 @@ League of Legends Firewall Fix made by Stevecaboose
 This is a simple tool to delete the Logitech dll files that cause the firewall bug error. This should only be used if you
 have the firewall error pop up every once in a while. If you use logitech devices such as keyboards which somehow interact
 with League of Legends, this will mostly likley cause that device's special functions with League stop working. This will never
-break youre game. These files are not required to run your game. They are the culprit for many problems which is why I made this
+break your game. These files are not required to run your game. They are the culprit for many problems which is why I made this
 tool to help.
 
 1. Click on LoL Firewall Fix.
