@@ -72,14 +72,14 @@ public class Removelog extends JFrame implements ActionListener{
 			
 			//file1 = x && file2 = y delete method
 			
-			File x = new File("C:\\Riot Games\\League of Legends\\RADS\\solutions\\lol_game_client_sln\\releases\\0.0.1.89\\deploy\\LogitechLed.dll");
-			File y = new File("C:\\Riot Games\\League of Legends\\RADS\\solutions\\lol_game_client_sln\\releases\\0.0.1.89\\deploy\\LogitechGkey.dll");
+			File x = new File("C:\\Riot Games\\League of Legends\\RADS\\solutions\\lol_game_client_sln\\releases\\0.0.1.90\\deploy\\LogitechLed.dll");
+			File y = new File("C:\\Riot Games\\League of Legends\\RADS\\solutions\\lol_game_client_sln\\releases\\0.0.1.90\\deploy\\LogitechGkey.dll");
 			//if files on D://
-			File q = new File("D:\\Riot Games\\League of Legends\\RADS\\solutions\\lol_game_client_sln\\releases\\0.0.1.89\\deploy\\LogitechLed.dll");
-			File r = new File("D:\\Riot Games\\League of Legends\\RADS\\solutions\\lol_game_client_sln\\releases\\0.0.1.89\\deploy\\LogitechGkey.dll");
+			File q = new File("D:\\Riot Games\\League of Legends\\RADS\\solutions\\lol_game_client_sln\\releases\\0.0.1.90\\deploy\\LogitechLed.dll");
+			File r = new File("D:\\Riot Games\\League of Legends\\RADS\\solutions\\lol_game_client_sln\\releases\\0.0.1.90\\deploy\\LogitechGkey.dll");
 			//if files on E://
-			File a = new File("E:\\Riot Games\\League of Legends\\RADS\\solutions\\lol_game_client_sln\\releases\\0.0.1.89\\deploy\\LogitechLed.dll");
-			File b = new File("E:\\Riot Games\\League of Legends\\RADS\\solutions\\lol_game_client_sln\\releases\\0.0.1.89\\deploy\\LogitechGkey.dll");
+			File a = new File("E:\\Riot Games\\League of Legends\\RADS\\solutions\\lol_game_client_sln\\releases\\0.0.1.90\\deploy\\LogitechLed.dll");
+			File b = new File("E:\\Riot Games\\League of Legends\\RADS\\solutions\\lol_game_client_sln\\releases\\0.0.1.90\\deploy\\LogitechGkey.dll");
 			
 			
 			if (x.exists() && y.exists()) {
