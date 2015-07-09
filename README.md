@@ -24,6 +24,9 @@ This will not work if you did not install in the default directory. If you insta
 Enjoy :)
 
 ----------------------------------------------------
+1.1.5
+Updated for patch 5.12
+
 1.1.4
 Updated for patch 5.9.15
 
